@@ -1,0 +1,4 @@
+
+pynput.keyboard
+smtplib
+threading
