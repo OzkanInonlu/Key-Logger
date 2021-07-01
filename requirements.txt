@@ -1,0 +1,4 @@
+modules:
+    pynput.keyboard
+    smtplib
+    threading
